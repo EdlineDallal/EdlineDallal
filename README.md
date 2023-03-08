@@ -4,7 +4,9 @@
 
 🧩 When I'm not exploring the nuances of data analysis, you can find me pursuing my hobbies in photography and tinkering with the latest gadgets. I also enjoy the mental challenge of puzzle-solving with Lego during my downtime, and playing piano while enjoying classical music.
 
-📚Currently, I am sharpening my skills in data analysis and am eager to explore new opportunities to apply my talents. Feel free to reach out to me via email at edlin276@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/edlinedallal/. 
+📚Currently, I am sharpening my skills in data analysis and am eager to explore new opportunities to apply my talents.
+<br> Feel free to reach out to me via email at edlin276@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/edlinedallal/.
+<br> Also, Have a look and enjoy my portfolio https://edlinedallal.github.io/. 
 
 Let's collaborate and solve problems together!
 
