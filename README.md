@@ -6,7 +6,7 @@
 
 📚Currently, I am sharpening my skills in data analysis and am eager to explore new opportunities to apply my talents.
 <br> Feel free to reach out to me via email at edlin276@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/edlinedallal/.
-<br> Also, Have a look and enjoy my portfolio https://github.com/EdlineDallal/EdlineDallalPortfolio.github.io. 
+<br> Also, Have a look and enjoy my portfolio [https://github.com/EdlineDallal/EdlineDallalPortfolio.github.io](https://edlinedallal.github.io/EdlineDallalPortfolio.github.io/). 
 
 Let's collaborate and solve problems together!
 
